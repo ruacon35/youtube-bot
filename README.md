@@ -30,4 +30,4 @@ $ python3 bot.py
 
 ## Demo
 
-![Demo](Screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/58078857/78955306-8d026580-7ae7-11ea-82ea-26fe6710f395.png)
