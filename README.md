@@ -11,9 +11,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/)
 to install the following modules.
 
 ```bash
-$ pip3 install -U telethon --user
-$ pip3 install pytube3
-$ pip3 install moviepy
+$ pip3 install -r requirements.txt
 ```
 
 Once installed go to [telegram auth](https://my.telegram.org/auth)
